@@ -96,24 +96,24 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
+        title: "L1 Associate HR Recruiter",
+        company_name: "Careernet Technologies Pvt Ltd",
+        icon: "",
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "May 2021 - Till Date",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "End to end Recruitment process like sourcing, screening, interview scheduling, maitaining personal data.",
+            "Collaborating with different clients & teams including CTS, TCS, Mindtree, Deloitte, Virtusa, Aurdinno, Redington, Tata Elxsi.",
+            "Building good rapport with the candidate until and after the joining process of the candidate in the organization to make sure that both him and client feels satisfied.",
+            "Account Handling, Stake-holder management, Team co-ordination, offer negotiation are my other set of skills.",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
+        title: "Front-end Developer",
+        company_name: "Ignizee Technologies",
+        icon: "",
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Oct 2018 - Jan 2021",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
