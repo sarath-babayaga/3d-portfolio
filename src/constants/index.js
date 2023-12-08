@@ -108,19 +108,19 @@ export const experiences = [
             "Account Handling, Stake-holder management, Team co-ordination, offer negotiation are my other set of skills.",
         ],
     },
-    {
-        title: "Front-end Developer",
-        company_name: "Ignizee Technologies",
-        icon: "",
-        iconBg: "#fbc3bc",
-        date: "Oct 2018 - Jan 2021",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
+    // {
+    //     title: "Front-end Developer",
+    //     company_name: "Ignizee Technologies",
+    //     icon: "",
+    //     iconBg: "#fbc3bc",
+    //     date: "Oct 2018 - Jan 2021",
+    //     points: [
+    //         "Developing and maintaining web applications using React.js and other related technologies.",
+    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //         "Implementing responsive design and ensuring cross-browser compatibility.",
+    //         "Participating in code reviews and providing constructive feedback to other developers.",
+    //     ],
+    // },
 ];
 
 export const socialLinks = [
